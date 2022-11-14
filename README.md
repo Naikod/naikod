@@ -1,9 +1,9 @@
 <h1 align="center">Welcome! I am KIM.</h1>
 <h3 align="center">A passionate random dev from Indonesia</h3>
 
-- 🔭 I’m currently working on **App Annonymous Message**
+- 🔭 I’m currently working on **Discord Bot**
 
-- 🌱 I’m currently learning **Backend**
+- 🌱 I’m currently learning **C++**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Naikod?tab=repositories](https://github.com/Naikod?tab=repositories)
 
